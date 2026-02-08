@@ -1,0 +1,8002 @@
+[
+  {
+    "event_id": 1,
+    "user_id": "user_169",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T06:11:54",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 2,
+    "user_id": "user_79",
+    "event_type": "click",
+    "timestamp": "2026-02-04T17:32:35",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 3,
+    "user_id": "user_32",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T04:57:35",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 4,
+    "user_id": "user_216",
+    "event_type": "click",
+    "timestamp": "2026-02-01T12:30:45",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 5,
+    "user_id": "user_102",
+    "event_type": "view",
+    "timestamp": "2026-02-03T09:02:30",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 6,
+    "user_id": "user_200",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T19:23:23",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 7,
+    "user_id": "user_191",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T17:04:19",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 8,
+    "user_id": "user_274",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T09:13:39",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 9,
+    "user_id": "user_98",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T19:26:06",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 10,
+    "user_id": "user_206",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T22:40:58",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 11,
+    "user_id": "user_73",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T04:28:51",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 12,
+    "user_id": "user_14",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T04:44:26",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 13,
+    "user_id": "user_254",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T03:43:39",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 14,
+    "user_id": "user_106",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T16:48:33",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 15,
+    "user_id": "user_169",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T15:09:07",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 16,
+    "user_id": "user_204",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T21:44:09",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 17,
+    "user_id": "user_128",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T09:04:59",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 18,
+    "user_id": "user_207",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T04:41:26",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 19,
+    "user_id": "user_142",
+    "event_type": "view",
+    "timestamp": "2026-02-04T12:03:36",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 20,
+    "user_id": "user_80",
+    "event_type": "view",
+    "timestamp": "2026-02-02T20:11:01",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 21,
+    "user_id": "user_229",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T07:16:58",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 22,
+    "user_id": "user_269",
+    "event_type": "view",
+    "timestamp": "2026-02-05T09:47:59",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 23,
+    "user_id": "user_295",
+    "event_type": "view",
+    "timestamp": "2026-02-08T02:37:39",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 24,
+    "user_id": "user_38",
+    "event_type": "click",
+    "timestamp": "2026-02-06T16:46:31",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 25,
+    "user_id": "user_158",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T14:23:14",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 26,
+    "user_id": "user_22",
+    "event_type": "view",
+    "timestamp": "2026-02-07T23:27:26",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 27,
+    "user_id": "user_79",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T05:10:08",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 28,
+    "user_id": "user_17",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T18:07:21",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 29,
+    "user_id": "user_1",
+    "event_type": "click",
+    "timestamp": "2026-02-06T14:01:16",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 30,
+    "user_id": "user_233",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T22:11:32",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 31,
+    "user_id": "user_91",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T20:23:36",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 32,
+    "user_id": "user_151",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T13:04:17",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 33,
+    "user_id": "user_90",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T16:44:45",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 34,
+    "user_id": "user_105",
+    "event_type": "view",
+    "timestamp": "2026-02-05T16:25:59",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 35,
+    "user_id": "user_187",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T00:13:41",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 36,
+    "user_id": "user_112",
+    "event_type": "click",
+    "timestamp": "2026-02-07T17:02:01",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 37,
+    "user_id": "user_17",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T23:49:53",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 38,
+    "user_id": "user_273",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T03:47:54",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 39,
+    "user_id": "user_259",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T03:12:17",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 40,
+    "user_id": "user_228",
+    "event_type": "click",
+    "timestamp": "2026-02-03T09:42:50",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 41,
+    "user_id": "user_12",
+    "event_type": "click",
+    "timestamp": "2026-02-07T07:11:37",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 42,
+    "user_id": "user_261",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T05:44:57",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 43,
+    "user_id": "user_178",
+    "event_type": "click",
+    "timestamp": "2026-02-04T04:27:13",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 44,
+    "user_id": "user_225",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T06:18:52",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 45,
+    "user_id": "user_118",
+    "event_type": "view",
+    "timestamp": "2026-02-04T17:42:15",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 46,
+    "user_id": "user_238",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T00:02:42",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 47,
+    "user_id": "user_100",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T01:38:11",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 48,
+    "user_id": "user_95",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T01:28:08",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 49,
+    "user_id": "user_167",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T17:51:05",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 50,
+    "user_id": "user_197",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T17:37:16",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 51,
+    "user_id": "user_5",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T21:36:06",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 52,
+    "user_id": "user_5",
+    "event_type": "view",
+    "timestamp": "2026-02-07T21:29:37",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 53,
+    "user_id": "user_87",
+    "event_type": "view",
+    "timestamp": "2026-02-01T08:10:41",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 54,
+    "user_id": "user_154",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T07:39:07",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 55,
+    "user_id": "user_260",
+    "event_type": "view",
+    "timestamp": "2026-02-05T22:44:38",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 56,
+    "user_id": "user_214",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T03:06:17",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 57,
+    "user_id": "user_166",
+    "event_type": "click",
+    "timestamp": "2026-02-07T19:20:53",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 58,
+    "user_id": "user_21",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T13:52:32",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 59,
+    "user_id": "user_268",
+    "event_type": "click",
+    "timestamp": "2026-02-04T13:43:04",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 60,
+    "user_id": "user_43",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T15:03:50",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 61,
+    "user_id": "user_289",
+    "event_type": "click",
+    "timestamp": "2026-02-06T08:49:15",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 62,
+    "user_id": "user_70",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T02:00:13",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 63,
+    "user_id": "user_189",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T23:35:36",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 64,
+    "user_id": "user_54",
+    "event_type": "click",
+    "timestamp": "2026-02-02T09:37:56",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 65,
+    "user_id": "user_205",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T19:43:23",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 66,
+    "user_id": "user_142",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T03:11:24",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 67,
+    "user_id": "user_29",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T11:00:38",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 68,
+    "user_id": "user_197",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T20:27:18",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 69,
+    "user_id": "user_38",
+    "event_type": "click",
+    "timestamp": "2026-02-05T03:54:26",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 70,
+    "user_id": "user_147",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T07:40:21",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 71,
+    "user_id": "user_234",
+    "event_type": "click",
+    "timestamp": "2026-02-03T03:31:43",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 72,
+    "user_id": "user_253",
+    "event_type": "view",
+    "timestamp": "2026-02-04T08:38:18",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 73,
+    "user_id": "user_222",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T17:54:58",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 74,
+    "user_id": "user_119",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T20:59:47",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 75,
+    "user_id": "user_212",
+    "event_type": "view",
+    "timestamp": "2026-02-06T07:10:40",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 76,
+    "user_id": "user_276",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T15:19:25",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 77,
+    "user_id": "user_267",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T21:45:26",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 78,
+    "user_id": "user_159",
+    "event_type": "view",
+    "timestamp": "2026-02-03T15:47:08",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 79,
+    "user_id": "user_125",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T06:44:34",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 80,
+    "user_id": "user_199",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T05:43:44",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 81,
+    "user_id": "user_206",
+    "event_type": "view",
+    "timestamp": "2026-02-07T00:44:28",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 82,
+    "user_id": "user_263",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T19:15:51",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 83,
+    "user_id": "user_178",
+    "event_type": "click",
+    "timestamp": "2026-02-01T21:03:30",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 84,
+    "user_id": "user_150",
+    "event_type": "view",
+    "timestamp": "2026-02-02T10:54:24",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 85,
+    "user_id": "user_289",
+    "event_type": "click",
+    "timestamp": "2026-02-04T08:21:27",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 86,
+    "user_id": "user_251",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T11:46:43",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 87,
+    "user_id": "user_295",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T15:31:50",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 88,
+    "user_id": "user_103",
+    "event_type": "click",
+    "timestamp": "2026-02-04T00:36:34",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 89,
+    "user_id": "user_214",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T17:42:08",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 90,
+    "user_id": "user_105",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T23:29:37",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 91,
+    "user_id": "user_132",
+    "event_type": "view",
+    "timestamp": "2026-02-06T12:12:44",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 92,
+    "user_id": "user_235",
+    "event_type": "view",
+    "timestamp": "2026-02-05T23:05:11",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 93,
+    "user_id": "user_24",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T00:30:40",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 94,
+    "user_id": "user_130",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T12:54:54",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 95,
+    "user_id": "user_279",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T07:02:55",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 96,
+    "user_id": "user_9",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T05:58:44",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 97,
+    "user_id": "user_269",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T07:04:40",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 98,
+    "user_id": "user_172",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T12:17:16",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 99,
+    "user_id": "user_2",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T09:41:58",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 100,
+    "user_id": "user_27",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T16:14:57",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 101,
+    "user_id": "user_266",
+    "event_type": "view",
+    "timestamp": "2026-02-07T07:42:33",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 102,
+    "user_id": "user_16",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T23:06:48",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 103,
+    "user_id": "user_6",
+    "event_type": "click",
+    "timestamp": "2026-02-05T19:41:05",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 104,
+    "user_id": "user_290",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T18:23:17",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 105,
+    "user_id": "user_132",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T06:01:31",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 106,
+    "user_id": "user_224",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T09:19:54",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 107,
+    "user_id": "user_14",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T06:36:40",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 108,
+    "user_id": "user_9",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T05:00:29",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 109,
+    "user_id": "user_203",
+    "event_type": "click",
+    "timestamp": "2026-02-08T10:57:48",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 110,
+    "user_id": "user_195",
+    "event_type": "view",
+    "timestamp": "2026-02-06T06:04:50",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 111,
+    "user_id": "user_108",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T18:01:02",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 112,
+    "user_id": "user_283",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T19:29:38",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 113,
+    "user_id": "user_221",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T06:40:32",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 114,
+    "user_id": "user_240",
+    "event_type": "click",
+    "timestamp": "2026-02-08T11:49:11",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 115,
+    "user_id": "user_10",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T01:33:05",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 116,
+    "user_id": "user_99",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T07:18:14",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 117,
+    "user_id": "user_221",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T05:53:21",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 118,
+    "user_id": "user_263",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T05:55:10",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 119,
+    "user_id": "user_157",
+    "event_type": "click",
+    "timestamp": "2026-02-08T10:41:20",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 120,
+    "user_id": "user_195",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T13:20:44",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 121,
+    "user_id": "user_294",
+    "event_type": "click",
+    "timestamp": "2026-02-04T18:11:00",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 122,
+    "user_id": "user_97",
+    "event_type": "view",
+    "timestamp": "2026-02-02T04:22:20",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 123,
+    "user_id": "user_127",
+    "event_type": "click",
+    "timestamp": "2026-02-08T10:47:34",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 124,
+    "user_id": "user_101",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T01:32:25",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 125,
+    "user_id": "user_261",
+    "event_type": "view",
+    "timestamp": "2026-02-04T21:13:42",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 126,
+    "user_id": "user_54",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T22:34:26",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 127,
+    "user_id": "user_128",
+    "event_type": "click",
+    "timestamp": "2026-02-04T12:27:51",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 128,
+    "user_id": "user_57",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T13:51:57",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 129,
+    "user_id": "user_46",
+    "event_type": "view",
+    "timestamp": "2026-02-01T05:33:17",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 130,
+    "user_id": "user_283",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T20:07:10",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 131,
+    "user_id": "user_8",
+    "event_type": "view",
+    "timestamp": "2026-02-07T23:28:02",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 132,
+    "user_id": "user_90",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T08:59:55",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 133,
+    "user_id": "user_251",
+    "event_type": "click",
+    "timestamp": "2026-02-04T05:40:43",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 134,
+    "user_id": "user_270",
+    "event_type": "click",
+    "timestamp": "2026-02-06T05:54:12",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 135,
+    "user_id": "user_84",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T15:58:17",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 136,
+    "user_id": "user_114",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T04:10:53",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 137,
+    "user_id": "user_123",
+    "event_type": "view",
+    "timestamp": "2026-02-06T19:44:07",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 138,
+    "user_id": "user_232",
+    "event_type": "click",
+    "timestamp": "2026-02-08T22:18:14",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 139,
+    "user_id": "user_231",
+    "event_type": "click",
+    "timestamp": "2026-02-02T21:05:56",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 140,
+    "user_id": "user_207",
+    "event_type": "click",
+    "timestamp": "2026-02-05T06:50:06",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 141,
+    "user_id": "user_158",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T18:01:47",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 142,
+    "user_id": "user_37",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T00:02:34",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 143,
+    "user_id": "user_124",
+    "event_type": "view",
+    "timestamp": "2026-02-08T14:17:46",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 144,
+    "user_id": "user_181",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T18:29:14",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 145,
+    "user_id": "user_283",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T01:07:13",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 146,
+    "user_id": "user_102",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T02:21:02",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 147,
+    "user_id": "user_115",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T18:16:42",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 148,
+    "user_id": "user_268",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T19:23:34",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 149,
+    "user_id": "user_144",
+    "event_type": "view",
+    "timestamp": "2026-02-05T00:26:15",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 150,
+    "user_id": "user_78",
+    "event_type": "view",
+    "timestamp": "2026-02-04T02:43:04",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 151,
+    "user_id": "user_67",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T00:13:41",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 152,
+    "user_id": "user_143",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T04:05:49",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 153,
+    "user_id": "user_39",
+    "event_type": "click",
+    "timestamp": "2026-02-08T12:19:32",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 154,
+    "user_id": "user_64",
+    "event_type": "click",
+    "timestamp": "2026-02-05T01:16:39",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 155,
+    "user_id": "user_203",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T17:11:23",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 156,
+    "user_id": "user_181",
+    "event_type": "view",
+    "timestamp": "2026-02-03T14:27:47",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 157,
+    "user_id": "user_180",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T19:54:22",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 158,
+    "user_id": "user_285",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T18:40:52",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 159,
+    "user_id": "user_222",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T18:15:03",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 160,
+    "user_id": "user_82",
+    "event_type": "click",
+    "timestamp": "2026-02-04T08:30:29",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 161,
+    "user_id": "user_170",
+    "event_type": "view",
+    "timestamp": "2026-02-08T07:34:41",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 162,
+    "user_id": "user_219",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T13:38:13",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 163,
+    "user_id": "user_60",
+    "event_type": "view",
+    "timestamp": "2026-02-02T09:07:23",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 164,
+    "user_id": "user_34",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T23:59:26",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 165,
+    "user_id": "user_140",
+    "event_type": "view",
+    "timestamp": "2026-02-08T02:36:09",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 166,
+    "user_id": "user_130",
+    "event_type": "click",
+    "timestamp": "2026-02-04T10:19:24",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 167,
+    "user_id": "user_242",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T11:06:57",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 168,
+    "user_id": "user_253",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T21:17:48",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 169,
+    "user_id": "user_246",
+    "event_type": "view",
+    "timestamp": "2026-02-08T05:45:24",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 170,
+    "user_id": "user_111",
+    "event_type": "click",
+    "timestamp": "2026-02-06T07:04:49",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 171,
+    "user_id": "user_200",
+    "event_type": "view",
+    "timestamp": "2026-02-01T21:36:03",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 172,
+    "user_id": "user_287",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T02:55:55",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 173,
+    "user_id": "user_17",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T09:04:47",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 174,
+    "user_id": "user_160",
+    "event_type": "click",
+    "timestamp": "2026-02-05T13:30:04",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 175,
+    "user_id": "user_36",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T05:21:11",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 176,
+    "user_id": "user_79",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T08:20:52",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 177,
+    "user_id": "user_145",
+    "event_type": "view",
+    "timestamp": "2026-02-01T05:58:35",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 178,
+    "user_id": "user_182",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T23:40:51",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 179,
+    "user_id": "user_219",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T20:42:49",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 180,
+    "user_id": "user_90",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T20:52:03",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 181,
+    "user_id": "user_250",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T10:41:58",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 182,
+    "user_id": "user_48",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T16:51:52",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 183,
+    "user_id": "user_71",
+    "event_type": "view",
+    "timestamp": "2026-02-04T03:03:58",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 184,
+    "user_id": "user_27",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T10:25:50",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 185,
+    "user_id": "user_286",
+    "event_type": "view",
+    "timestamp": "2026-02-03T12:31:03",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 186,
+    "user_id": "user_202",
+    "event_type": "click",
+    "timestamp": "2026-02-01T04:34:29",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 187,
+    "user_id": "user_159",
+    "event_type": "view",
+    "timestamp": "2026-02-04T06:32:08",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 188,
+    "user_id": "user_145",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T21:29:48",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 189,
+    "user_id": "user_148",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T20:41:32",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 190,
+    "user_id": "user_154",
+    "event_type": "click",
+    "timestamp": "2026-02-04T07:54:44",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 191,
+    "user_id": "user_84",
+    "event_type": "view",
+    "timestamp": "2026-02-06T12:52:11",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 192,
+    "user_id": "user_94",
+    "event_type": "view",
+    "timestamp": "2026-02-04T13:20:54",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 193,
+    "user_id": "user_122",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T09:47:18",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 194,
+    "user_id": "user_215",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T00:45:45",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 195,
+    "user_id": "user_234",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T16:45:59",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 196,
+    "user_id": "user_127",
+    "event_type": "click",
+    "timestamp": "2026-02-04T21:12:37",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 197,
+    "user_id": "user_286",
+    "event_type": "click",
+    "timestamp": "2026-02-06T03:02:29",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 198,
+    "user_id": "user_121",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T06:21:05",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 199,
+    "user_id": "user_34",
+    "event_type": "click",
+    "timestamp": "2026-02-06T17:28:39",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 200,
+    "user_id": "user_252",
+    "event_type": "click",
+    "timestamp": "2026-02-08T15:51:47",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 201,
+    "user_id": "user_277",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T02:29:19",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 202,
+    "user_id": "user_236",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T03:22:00",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 203,
+    "user_id": "user_14",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T00:54:17",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 204,
+    "user_id": "user_238",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T15:03:38",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 205,
+    "user_id": "user_23",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T09:16:49",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 206,
+    "user_id": "user_215",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T15:44:12",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 207,
+    "user_id": "user_240",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T11:33:33",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 208,
+    "user_id": "user_57",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T01:43:23",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 209,
+    "user_id": "user_83",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T21:07:15",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 210,
+    "user_id": "user_224",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T16:52:21",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 211,
+    "user_id": "user_241",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T09:01:07",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 212,
+    "user_id": "user_93",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T11:16:59",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 213,
+    "user_id": "user_1",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T06:13:09",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 214,
+    "user_id": "user_222",
+    "event_type": "view",
+    "timestamp": "2026-02-02T10:40:41",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 215,
+    "user_id": "user_291",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T10:27:22",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 216,
+    "user_id": "user_74",
+    "event_type": "view",
+    "timestamp": "2026-02-06T12:13:25",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 217,
+    "user_id": "user_153",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T16:08:28",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 218,
+    "user_id": "user_140",
+    "event_type": "click",
+    "timestamp": "2026-02-08T22:28:54",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 219,
+    "user_id": "user_22",
+    "event_type": "click",
+    "timestamp": "2026-02-03T05:57:23",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 220,
+    "user_id": "user_45",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T22:04:54",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 221,
+    "user_id": "user_108",
+    "event_type": "view",
+    "timestamp": "2026-02-03T04:17:40",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 222,
+    "user_id": "user_55",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T08:08:53",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 223,
+    "user_id": "user_59",
+    "event_type": "view",
+    "timestamp": "2026-02-08T14:20:46",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 224,
+    "user_id": "user_37",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T07:40:54",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 225,
+    "user_id": "user_9",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T10:47:33",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 226,
+    "user_id": "user_93",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T02:43:37",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 227,
+    "user_id": "user_278",
+    "event_type": "click",
+    "timestamp": "2026-02-08T21:03:25",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 228,
+    "user_id": "user_36",
+    "event_type": "view",
+    "timestamp": "2026-02-01T17:11:56",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 229,
+    "user_id": "user_164",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T17:42:25",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 230,
+    "user_id": "user_1",
+    "event_type": "view",
+    "timestamp": "2026-02-06T07:41:47",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 231,
+    "user_id": "user_12",
+    "event_type": "view",
+    "timestamp": "2026-02-02T23:14:15",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 232,
+    "user_id": "user_25",
+    "event_type": "click",
+    "timestamp": "2026-02-04T02:24:30",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 233,
+    "user_id": "user_26",
+    "event_type": "view",
+    "timestamp": "2026-02-07T15:14:15",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 234,
+    "user_id": "user_9",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T08:04:38",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 235,
+    "user_id": "user_179",
+    "event_type": "click",
+    "timestamp": "2026-02-06T03:55:30",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 236,
+    "user_id": "user_292",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T03:12:53",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 237,
+    "user_id": "user_48",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T06:24:21",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 238,
+    "user_id": "user_98",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T23:41:01",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 239,
+    "user_id": "user_39",
+    "event_type": "click",
+    "timestamp": "2026-02-05T08:36:59",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 240,
+    "user_id": "user_266",
+    "event_type": "view",
+    "timestamp": "2026-02-01T05:11:40",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 241,
+    "user_id": "user_152",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T00:02:06",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 242,
+    "user_id": "user_71",
+    "event_type": "view",
+    "timestamp": "2026-02-05T19:07:45",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 243,
+    "user_id": "user_180",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T08:36:08",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 244,
+    "user_id": "user_105",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T08:19:06",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 245,
+    "user_id": "user_64",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T07:57:24",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 246,
+    "user_id": "user_248",
+    "event_type": "click",
+    "timestamp": "2026-02-02T02:13:26",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 247,
+    "user_id": "user_80",
+    "event_type": "click",
+    "timestamp": "2026-02-07T00:07:32",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 248,
+    "user_id": "user_149",
+    "event_type": "view",
+    "timestamp": "2026-02-03T12:48:30",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 249,
+    "user_id": "user_19",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T04:14:46",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 250,
+    "user_id": "user_100",
+    "event_type": "view",
+    "timestamp": "2026-02-06T16:15:23",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 251,
+    "user_id": "user_253",
+    "event_type": "view",
+    "timestamp": "2026-02-02T16:02:39",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 252,
+    "user_id": "user_255",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T05:18:05",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 253,
+    "user_id": "user_124",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T18:02:23",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 254,
+    "user_id": "user_121",
+    "event_type": "click",
+    "timestamp": "2026-02-07T21:13:52",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 255,
+    "user_id": "user_283",
+    "event_type": "click",
+    "timestamp": "2026-02-08T23:15:10",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 256,
+    "user_id": "user_268",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T06:48:54",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 257,
+    "user_id": "user_30",
+    "event_type": "view",
+    "timestamp": "2026-02-01T01:40:57",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 258,
+    "user_id": "user_52",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T14:51:57",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 259,
+    "user_id": "user_76",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T20:00:41",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 260,
+    "user_id": "user_215",
+    "event_type": "click",
+    "timestamp": "2026-02-05T23:52:38",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 261,
+    "user_id": "user_183",
+    "event_type": "view",
+    "timestamp": "2026-02-04T17:27:31",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 262,
+    "user_id": "user_93",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T19:19:05",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 263,
+    "user_id": "user_263",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T08:13:18",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 264,
+    "user_id": "user_221",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T19:28:34",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 265,
+    "user_id": "user_37",
+    "event_type": "click",
+    "timestamp": "2026-02-03T18:40:15",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 266,
+    "user_id": "user_99",
+    "event_type": "view",
+    "timestamp": "2026-02-05T07:34:10",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 267,
+    "user_id": "user_237",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T23:03:18",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 268,
+    "user_id": "user_227",
+    "event_type": "click",
+    "timestamp": "2026-02-03T19:00:28",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 269,
+    "user_id": "user_254",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T11:14:35",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 270,
+    "user_id": "user_274",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T00:14:46",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 271,
+    "user_id": "user_84",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T23:11:20",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 272,
+    "user_id": "user_211",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T05:53:36",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 273,
+    "user_id": "user_280",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T05:41:11",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 274,
+    "user_id": "user_3",
+    "event_type": "view",
+    "timestamp": "2026-02-03T10:53:51",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 275,
+    "user_id": "user_48",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T00:07:44",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 276,
+    "user_id": "user_63",
+    "event_type": "view",
+    "timestamp": "2026-02-03T09:48:21",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 277,
+    "user_id": "user_137",
+    "event_type": "click",
+    "timestamp": "2026-02-01T02:23:59",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 278,
+    "user_id": "user_82",
+    "event_type": "click",
+    "timestamp": "2026-02-02T18:41:13",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 279,
+    "user_id": "user_256",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T11:15:51",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 280,
+    "user_id": "user_38",
+    "event_type": "click",
+    "timestamp": "2026-02-04T09:28:37",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 281,
+    "user_id": "user_86",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T01:39:26",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 282,
+    "user_id": "user_98",
+    "event_type": "click",
+    "timestamp": "2026-02-03T22:03:14",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 283,
+    "user_id": "user_294",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T21:03:55",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 284,
+    "user_id": "user_142",
+    "event_type": "click",
+    "timestamp": "2026-02-07T08:00:42",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 285,
+    "user_id": "user_214",
+    "event_type": "click",
+    "timestamp": "2026-02-02T12:01:29",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 286,
+    "user_id": "user_212",
+    "event_type": "click",
+    "timestamp": "2026-02-06T16:19:02",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 287,
+    "user_id": "user_236",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T21:49:34",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 288,
+    "user_id": "user_64",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T03:29:48",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 289,
+    "user_id": "user_270",
+    "event_type": "view",
+    "timestamp": "2026-02-06T17:05:00",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 290,
+    "user_id": "user_65",
+    "event_type": "view",
+    "timestamp": "2026-02-06T20:29:11",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 291,
+    "user_id": "user_158",
+    "event_type": "click",
+    "timestamp": "2026-02-03T09:38:50",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 292,
+    "user_id": "user_60",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T16:56:07",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 293,
+    "user_id": "user_204",
+    "event_type": "view",
+    "timestamp": "2026-02-07T12:59:28",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 294,
+    "user_id": "user_258",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T04:43:53",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 295,
+    "user_id": "user_124",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T23:38:08",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 296,
+    "user_id": "user_162",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T05:15:49",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 297,
+    "user_id": "user_25",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T13:08:46",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 298,
+    "user_id": "user_257",
+    "event_type": "click",
+    "timestamp": "2026-02-08T06:00:53",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 299,
+    "user_id": "user_206",
+    "event_type": "click",
+    "timestamp": "2026-02-08T00:14:12",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 300,
+    "user_id": "user_269",
+    "event_type": "click",
+    "timestamp": "2026-02-05T02:45:48",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 301,
+    "user_id": "user_116",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T09:07:28",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 302,
+    "user_id": "user_166",
+    "event_type": "click",
+    "timestamp": "2026-02-04T21:54:36",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 303,
+    "user_id": "user_217",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T13:34:02",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 304,
+    "user_id": "user_9",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T01:12:53",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 305,
+    "user_id": "user_209",
+    "event_type": "click",
+    "timestamp": "2026-02-04T06:49:29",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 306,
+    "user_id": "user_176",
+    "event_type": "view",
+    "timestamp": "2026-02-06T08:22:57",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 307,
+    "user_id": "user_250",
+    "event_type": "view",
+    "timestamp": "2026-02-05T15:44:27",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 308,
+    "user_id": "user_262",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T06:48:29",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 309,
+    "user_id": "user_143",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T13:23:01",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 310,
+    "user_id": "user_162",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T03:31:56",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 311,
+    "user_id": "user_123",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T05:51:31",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 312,
+    "user_id": "user_120",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T11:13:31",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 313,
+    "user_id": "user_6",
+    "event_type": "view",
+    "timestamp": "2026-02-03T03:11:35",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 314,
+    "user_id": "user_93",
+    "event_type": "view",
+    "timestamp": "2026-02-08T18:15:59",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 315,
+    "user_id": "user_141",
+    "event_type": "view",
+    "timestamp": "2026-02-02T19:43:15",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 316,
+    "user_id": "user_54",
+    "event_type": "click",
+    "timestamp": "2026-02-03T15:33:55",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 317,
+    "user_id": "user_141",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T05:18:50",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 318,
+    "user_id": "user_271",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T08:48:23",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 319,
+    "user_id": "user_57",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T03:40:23",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 320,
+    "user_id": "user_149",
+    "event_type": "view",
+    "timestamp": "2026-02-02T19:56:39",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 321,
+    "user_id": "user_184",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T02:19:50",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 322,
+    "user_id": "user_182",
+    "event_type": "click",
+    "timestamp": "2026-02-07T10:45:16",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 323,
+    "user_id": "user_191",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T10:19:47",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 324,
+    "user_id": "user_210",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T09:51:38",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 325,
+    "user_id": "user_22",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T01:08:21",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 326,
+    "user_id": "user_223",
+    "event_type": "click",
+    "timestamp": "2026-02-03T06:44:50",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 327,
+    "user_id": "user_125",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T15:11:57",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 328,
+    "user_id": "user_218",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T11:21:55",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 329,
+    "user_id": "user_244",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T09:37:38",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 330,
+    "user_id": "user_180",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T16:09:32",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 331,
+    "user_id": "user_249",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T06:18:25",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 332,
+    "user_id": "user_155",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T09:10:17",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 333,
+    "user_id": "user_263",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T00:37:22",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 334,
+    "user_id": "user_89",
+    "event_type": "view",
+    "timestamp": "2026-02-07T00:57:57",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 335,
+    "user_id": "user_181",
+    "event_type": "click",
+    "timestamp": "2026-02-08T15:12:54",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 336,
+    "user_id": "user_65",
+    "event_type": "view",
+    "timestamp": "2026-02-01T20:14:23",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 337,
+    "user_id": "user_99",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T18:02:40",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 338,
+    "user_id": "user_42",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T16:35:36",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 339,
+    "user_id": "user_230",
+    "event_type": "click",
+    "timestamp": "2026-02-01T20:06:43",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 340,
+    "user_id": "user_189",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T08:09:31",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 341,
+    "user_id": "user_247",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T01:05:06",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 342,
+    "user_id": "user_297",
+    "event_type": "view",
+    "timestamp": "2026-02-07T15:11:26",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 343,
+    "user_id": "user_142",
+    "event_type": "click",
+    "timestamp": "2026-02-05T17:30:49",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 344,
+    "user_id": "user_73",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T07:42:12",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 345,
+    "user_id": "user_282",
+    "event_type": "click",
+    "timestamp": "2026-02-01T21:55:19",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 346,
+    "user_id": "user_254",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T16:51:44",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 347,
+    "user_id": "user_190",
+    "event_type": "view",
+    "timestamp": "2026-02-05T12:11:10",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 348,
+    "user_id": "user_279",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T15:33:58",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 349,
+    "user_id": "user_31",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T05:58:59",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 350,
+    "user_id": "user_68",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T12:01:20",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 351,
+    "user_id": "user_37",
+    "event_type": "click",
+    "timestamp": "2026-02-06T23:47:07",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 352,
+    "user_id": "user_9",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T12:06:22",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 353,
+    "user_id": "user_278",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T06:20:55",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 354,
+    "user_id": "user_27",
+    "event_type": "view",
+    "timestamp": "2026-02-07T00:38:48",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 355,
+    "user_id": "user_101",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T14:41:14",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 356,
+    "user_id": "user_69",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T22:19:40",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 357,
+    "user_id": "user_155",
+    "event_type": "click",
+    "timestamp": "2026-02-03T08:27:44",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 358,
+    "user_id": "user_221",
+    "event_type": "click",
+    "timestamp": "2026-02-05T11:59:45",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 359,
+    "user_id": "user_3",
+    "event_type": "view",
+    "timestamp": "2026-02-06T08:18:59",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 360,
+    "user_id": "user_127",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T12:25:41",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 361,
+    "user_id": "user_117",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T01:13:56",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 362,
+    "user_id": "user_226",
+    "event_type": "click",
+    "timestamp": "2026-02-02T11:38:14",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 363,
+    "user_id": "user_131",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T13:16:32",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 364,
+    "user_id": "user_135",
+    "event_type": "view",
+    "timestamp": "2026-02-08T00:53:44",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 365,
+    "user_id": "user_17",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T12:27:05",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 366,
+    "user_id": "user_173",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T11:06:35",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 367,
+    "user_id": "user_180",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T11:30:51",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 368,
+    "user_id": "user_172",
+    "event_type": "view",
+    "timestamp": "2026-02-07T17:42:12",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 369,
+    "user_id": "user_293",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T09:45:57",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 370,
+    "user_id": "user_96",
+    "event_type": "click",
+    "timestamp": "2026-02-01T14:06:22",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 371,
+    "user_id": "user_59",
+    "event_type": "click",
+    "timestamp": "2026-02-08T17:52:15",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 372,
+    "user_id": "user_228",
+    "event_type": "view",
+    "timestamp": "2026-02-04T08:08:34",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 373,
+    "user_id": "user_48",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T05:43:41",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 374,
+    "user_id": "user_172",
+    "event_type": "click",
+    "timestamp": "2026-02-05T12:30:04",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 375,
+    "user_id": "user_190",
+    "event_type": "view",
+    "timestamp": "2026-02-05T18:38:14",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 376,
+    "user_id": "user_42",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T16:40:45",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 377,
+    "user_id": "user_163",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T07:34:51",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 378,
+    "user_id": "user_261",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T08:20:51",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 379,
+    "user_id": "user_274",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T07:40:16",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 380,
+    "user_id": "user_135",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T08:12:45",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 381,
+    "user_id": "user_159",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T20:26:57",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 382,
+    "user_id": "user_121",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T17:42:27",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 383,
+    "user_id": "user_62",
+    "event_type": "click",
+    "timestamp": "2026-02-01T06:38:54",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 384,
+    "user_id": "user_109",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T15:11:30",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 385,
+    "user_id": "user_266",
+    "event_type": "click",
+    "timestamp": "2026-02-07T04:21:51",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 386,
+    "user_id": "user_50",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T12:39:40",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 387,
+    "user_id": "user_164",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T17:51:47",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 388,
+    "user_id": "user_226",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T22:28:30",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 389,
+    "user_id": "user_246",
+    "event_type": "view",
+    "timestamp": "2026-02-02T17:10:09",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 390,
+    "user_id": "user_144",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T15:08:45",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 391,
+    "user_id": "user_27",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T08:25:33",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 392,
+    "user_id": "user_175",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T06:54:51",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 393,
+    "user_id": "user_203",
+    "event_type": "view",
+    "timestamp": "2026-02-05T11:38:03",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 394,
+    "user_id": "user_288",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T18:50:32",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 395,
+    "user_id": "user_71",
+    "event_type": "view",
+    "timestamp": "2026-02-08T20:41:36",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 396,
+    "user_id": "user_4",
+    "event_type": "click",
+    "timestamp": "2026-02-01T01:00:49",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 397,
+    "user_id": "user_19",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T16:18:04",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 398,
+    "user_id": "user_189",
+    "event_type": "click",
+    "timestamp": "2026-02-02T09:37:58",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 399,
+    "user_id": "user_194",
+    "event_type": "view",
+    "timestamp": "2026-02-03T21:23:03",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 400,
+    "user_id": "user_138",
+    "event_type": "view",
+    "timestamp": "2026-02-05T04:23:15",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 401,
+    "user_id": "user_91",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T21:34:37",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 402,
+    "user_id": "user_10",
+    "event_type": "click",
+    "timestamp": "2026-02-05T00:43:58",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 403,
+    "user_id": "user_83",
+    "event_type": "click",
+    "timestamp": "2026-02-08T08:11:31",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 404,
+    "user_id": "user_203",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T22:45:31",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 405,
+    "user_id": "user_73",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T21:33:59",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 406,
+    "user_id": "user_283",
+    "event_type": "view",
+    "timestamp": "2026-02-02T23:07:51",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 407,
+    "user_id": "user_85",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T01:33:54",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 408,
+    "user_id": "user_96",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T04:39:30",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 409,
+    "user_id": "user_6",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T06:19:17",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 410,
+    "user_id": "user_11",
+    "event_type": "click",
+    "timestamp": "2026-02-03T21:29:00",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 411,
+    "user_id": "user_137",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T15:26:17",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 412,
+    "user_id": "user_285",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T20:59:27",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 413,
+    "user_id": "user_22",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T06:10:32",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 414,
+    "user_id": "user_245",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T04:48:53",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 415,
+    "user_id": "user_232",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T15:27:47",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 416,
+    "user_id": "user_70",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T09:54:55",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 417,
+    "user_id": "user_162",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T11:30:35",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 418,
+    "user_id": "user_178",
+    "event_type": "click",
+    "timestamp": "2026-02-01T01:44:19",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 419,
+    "user_id": "user_54",
+    "event_type": "click",
+    "timestamp": "2026-02-07T01:58:11",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 420,
+    "user_id": "user_102",
+    "event_type": "click",
+    "timestamp": "2026-02-07T07:23:24",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 421,
+    "user_id": "user_32",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T06:17:24",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 422,
+    "user_id": "user_133",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T00:06:41",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 423,
+    "user_id": "user_122",
+    "event_type": "view",
+    "timestamp": "2026-02-08T13:19:32",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 424,
+    "user_id": "user_200",
+    "event_type": "view",
+    "timestamp": "2026-02-02T06:23:25",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 425,
+    "user_id": "user_225",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T05:23:31",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 426,
+    "user_id": "user_287",
+    "event_type": "click",
+    "timestamp": "2026-02-08T07:21:19",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 427,
+    "user_id": "user_218",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T06:30:54",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 428,
+    "user_id": "user_85",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T02:40:04",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 429,
+    "user_id": "user_231",
+    "event_type": "click",
+    "timestamp": "2026-02-06T23:36:35",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 430,
+    "user_id": "user_119",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T03:08:25",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 431,
+    "user_id": "user_207",
+    "event_type": "click",
+    "timestamp": "2026-02-06T07:52:39",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 432,
+    "user_id": "user_18",
+    "event_type": "view",
+    "timestamp": "2026-02-07T00:48:28",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 433,
+    "user_id": "user_2",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T23:11:51",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 434,
+    "user_id": "user_208",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T23:01:34",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 435,
+    "user_id": "user_28",
+    "event_type": "click",
+    "timestamp": "2026-02-07T17:02:06",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 436,
+    "user_id": "user_270",
+    "event_type": "click",
+    "timestamp": "2026-02-03T01:05:58",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 437,
+    "user_id": "user_195",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T08:46:43",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 438,
+    "user_id": "user_79",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T13:05:01",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 439,
+    "user_id": "user_190",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T06:55:02",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 440,
+    "user_id": "user_85",
+    "event_type": "click",
+    "timestamp": "2026-02-05T03:43:46",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 441,
+    "user_id": "user_47",
+    "event_type": "view",
+    "timestamp": "2026-02-08T02:30:49",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 442,
+    "user_id": "user_130",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T20:50:37",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 443,
+    "user_id": "user_62",
+    "event_type": "view",
+    "timestamp": "2026-02-03T19:38:30",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 444,
+    "user_id": "user_136",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T01:27:54",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 445,
+    "user_id": "user_116",
+    "event_type": "click",
+    "timestamp": "2026-02-07T07:40:21",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 446,
+    "user_id": "user_186",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T18:40:05",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 447,
+    "user_id": "user_210",
+    "event_type": "view",
+    "timestamp": "2026-02-01T14:03:20",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 448,
+    "user_id": "user_248",
+    "event_type": "click",
+    "timestamp": "2026-02-05T19:14:31",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 449,
+    "user_id": "user_126",
+    "event_type": "view",
+    "timestamp": "2026-02-01T08:09:55",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 450,
+    "user_id": "user_43",
+    "event_type": "click",
+    "timestamp": "2026-02-06T22:16:18",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 451,
+    "user_id": "user_57",
+    "event_type": "click",
+    "timestamp": "2026-02-01T07:50:15",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 452,
+    "user_id": "user_74",
+    "event_type": "click",
+    "timestamp": "2026-02-02T03:38:44",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 453,
+    "user_id": "user_189",
+    "event_type": "click",
+    "timestamp": "2026-02-08T02:38:01",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 454,
+    "user_id": "user_207",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T20:56:38",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 455,
+    "user_id": "user_288",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T05:07:40",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 456,
+    "user_id": "user_141",
+    "event_type": "click",
+    "timestamp": "2026-02-07T02:31:16",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 457,
+    "user_id": "user_206",
+    "event_type": "click",
+    "timestamp": "2026-02-03T19:34:57",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 458,
+    "user_id": "user_161",
+    "event_type": "view",
+    "timestamp": "2026-02-03T19:58:37",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 459,
+    "user_id": "user_233",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T15:43:52",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 460,
+    "user_id": "user_75",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T03:35:00",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 461,
+    "user_id": "user_48",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T22:17:19",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 462,
+    "user_id": "user_137",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T06:34:54",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 463,
+    "user_id": "user_192",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T06:46:16",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 464,
+    "user_id": "user_105",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T23:11:58",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 465,
+    "user_id": "user_159",
+    "event_type": "view",
+    "timestamp": "2026-02-07T11:55:29",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 466,
+    "user_id": "user_7",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T04:18:38",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 467,
+    "user_id": "user_67",
+    "event_type": "view",
+    "timestamp": "2026-02-06T10:14:36",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 468,
+    "user_id": "user_210",
+    "event_type": "view",
+    "timestamp": "2026-02-04T12:01:59",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 469,
+    "user_id": "user_197",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T23:24:16",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 470,
+    "user_id": "user_14",
+    "event_type": "view",
+    "timestamp": "2026-02-08T16:38:03",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 471,
+    "user_id": "user_21",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T06:53:45",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 472,
+    "user_id": "user_140",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T07:14:44",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 473,
+    "user_id": "user_131",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T22:48:10",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 474,
+    "user_id": "user_184",
+    "event_type": "view",
+    "timestamp": "2026-02-06T18:10:13",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 475,
+    "user_id": "user_219",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T21:00:37",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 476,
+    "user_id": "user_30",
+    "event_type": "view",
+    "timestamp": "2026-02-08T01:00:44",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 477,
+    "user_id": "user_163",
+    "event_type": "view",
+    "timestamp": "2026-02-06T18:39:17",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 478,
+    "user_id": "user_273",
+    "event_type": "click",
+    "timestamp": "2026-02-05T09:08:34",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 479,
+    "user_id": "user_106",
+    "event_type": "click",
+    "timestamp": "2026-02-01T16:45:46",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 480,
+    "user_id": "user_120",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T23:11:47",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 481,
+    "user_id": "user_34",
+    "event_type": "view",
+    "timestamp": "2026-02-06T12:41:49",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 482,
+    "user_id": "user_37",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T00:25:08",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 483,
+    "user_id": "user_84",
+    "event_type": "view",
+    "timestamp": "2026-02-02T14:05:18",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 484,
+    "user_id": "user_112",
+    "event_type": "view",
+    "timestamp": "2026-02-01T12:38:13",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 485,
+    "user_id": "user_132",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T01:23:54",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 486,
+    "user_id": "user_173",
+    "event_type": "click",
+    "timestamp": "2026-02-07T17:57:03",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 487,
+    "user_id": "user_252",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T18:57:55",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 488,
+    "user_id": "user_290",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T04:18:30",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 489,
+    "user_id": "user_55",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T11:54:13",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 490,
+    "user_id": "user_125",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T18:33:34",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 491,
+    "user_id": "user_174",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T03:26:28",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 492,
+    "user_id": "user_75",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T02:20:06",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 493,
+    "user_id": "user_267",
+    "event_type": "view",
+    "timestamp": "2026-02-07T02:25:22",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 494,
+    "user_id": "user_3",
+    "event_type": "click",
+    "timestamp": "2026-02-06T18:46:31",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 495,
+    "user_id": "user_35",
+    "event_type": "click",
+    "timestamp": "2026-02-03T23:14:34",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 496,
+    "user_id": "user_280",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T20:25:05",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 497,
+    "user_id": "user_259",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T05:59:07",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 498,
+    "user_id": "user_61",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T22:22:44",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 499,
+    "user_id": "user_5",
+    "event_type": "view",
+    "timestamp": "2026-02-04T05:27:50",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 500,
+    "user_id": "user_238",
+    "event_type": "click",
+    "timestamp": "2026-02-01T16:24:57",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 501,
+    "user_id": "user_45",
+    "event_type": "view",
+    "timestamp": "2026-02-05T09:07:43",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 502,
+    "user_id": "user_145",
+    "event_type": "view",
+    "timestamp": "2026-02-04T05:14:03",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 503,
+    "user_id": "user_183",
+    "event_type": "click",
+    "timestamp": "2026-02-07T12:02:36",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 504,
+    "user_id": "user_297",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T11:17:38",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 505,
+    "user_id": "user_182",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T19:30:27",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 506,
+    "user_id": "user_214",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T00:12:03",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 507,
+    "user_id": "user_285",
+    "event_type": "view",
+    "timestamp": "2026-02-01T20:21:32",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 508,
+    "user_id": "user_169",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T16:16:48",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 509,
+    "user_id": "user_279",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T03:58:09",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 510,
+    "user_id": "user_89",
+    "event_type": "view",
+    "timestamp": "2026-02-04T22:21:34",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 511,
+    "user_id": "user_133",
+    "event_type": "click",
+    "timestamp": "2026-02-07T04:22:37",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 512,
+    "user_id": "user_260",
+    "event_type": "view",
+    "timestamp": "2026-02-05T00:48:28",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 513,
+    "user_id": "user_59",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T15:57:27",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 514,
+    "user_id": "user_230",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T06:54:55",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 515,
+    "user_id": "user_93",
+    "event_type": "view",
+    "timestamp": "2026-02-07T12:24:58",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 516,
+    "user_id": "user_175",
+    "event_type": "view",
+    "timestamp": "2026-02-08T22:56:13",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 517,
+    "user_id": "user_271",
+    "event_type": "view",
+    "timestamp": "2026-02-06T19:41:29",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 518,
+    "user_id": "user_20",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T10:48:24",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 519,
+    "user_id": "user_244",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T11:18:00",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 520,
+    "user_id": "user_247",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T06:03:11",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 521,
+    "user_id": "user_158",
+    "event_type": "click",
+    "timestamp": "2026-02-04T19:06:54",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 522,
+    "user_id": "user_96",
+    "event_type": "view",
+    "timestamp": "2026-02-06T00:14:03",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 523,
+    "user_id": "user_46",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T10:49:24",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 524,
+    "user_id": "user_274",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T20:03:55",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 525,
+    "user_id": "user_151",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T08:50:28",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 526,
+    "user_id": "user_82",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T14:16:54",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 527,
+    "user_id": "user_3",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T17:00:02",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 528,
+    "user_id": "user_298",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T02:25:49",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 529,
+    "user_id": "user_56",
+    "event_type": "view",
+    "timestamp": "2026-02-06T02:41:33",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 530,
+    "user_id": "user_35",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T06:31:44",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 531,
+    "user_id": "user_108",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T22:20:15",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 532,
+    "user_id": "user_164",
+    "event_type": "view",
+    "timestamp": "2026-02-06T11:17:59",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 533,
+    "user_id": "user_181",
+    "event_type": "click",
+    "timestamp": "2026-02-04T14:11:07",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 534,
+    "user_id": "user_72",
+    "event_type": "view",
+    "timestamp": "2026-02-07T02:28:50",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 535,
+    "user_id": "user_263",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T15:49:59",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 536,
+    "user_id": "user_222",
+    "event_type": "view",
+    "timestamp": "2026-02-04T10:12:50",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 537,
+    "user_id": "user_74",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T00:14:44",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 538,
+    "user_id": "user_81",
+    "event_type": "click",
+    "timestamp": "2026-02-05T14:58:25",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 539,
+    "user_id": "user_277",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T11:38:15",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 540,
+    "user_id": "user_152",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T13:24:21",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 541,
+    "user_id": "user_207",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T19:21:07",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 542,
+    "user_id": "user_171",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T22:44:19",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 543,
+    "user_id": "user_293",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T01:09:16",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 544,
+    "user_id": "user_43",
+    "event_type": "click",
+    "timestamp": "2026-02-03T08:18:00",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 545,
+    "user_id": "user_63",
+    "event_type": "view",
+    "timestamp": "2026-02-07T16:27:51",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 546,
+    "user_id": "user_63",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T17:27:46",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 547,
+    "user_id": "user_103",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T15:02:13",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 548,
+    "user_id": "user_141",
+    "event_type": "view",
+    "timestamp": "2026-02-04T07:13:46",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 549,
+    "user_id": "user_223",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T18:49:43",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 550,
+    "user_id": "user_141",
+    "event_type": "click",
+    "timestamp": "2026-02-07T06:55:31",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 551,
+    "user_id": "user_5",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T07:00:38",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 552,
+    "user_id": "user_239",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T07:43:00",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 553,
+    "user_id": "user_220",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T08:30:54",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 554,
+    "user_id": "user_45",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T03:15:18",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 555,
+    "user_id": "user_43",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T17:01:14",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 556,
+    "user_id": "user_260",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T21:52:09",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 557,
+    "user_id": "user_291",
+    "event_type": "click",
+    "timestamp": "2026-02-08T18:24:10",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 558,
+    "user_id": "user_267",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T01:06:55",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 559,
+    "user_id": "user_266",
+    "event_type": "view",
+    "timestamp": "2026-02-06T19:38:17",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 560,
+    "user_id": "user_102",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T09:06:55",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 561,
+    "user_id": "user_152",
+    "event_type": "click",
+    "timestamp": "2026-02-02T17:56:10",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 562,
+    "user_id": "user_219",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T09:13:06",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 563,
+    "user_id": "user_194",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T01:56:27",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 564,
+    "user_id": "user_39",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T16:20:53",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 565,
+    "user_id": "user_3",
+    "event_type": "click",
+    "timestamp": "2026-02-06T13:08:11",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 566,
+    "user_id": "user_183",
+    "event_type": "view",
+    "timestamp": "2026-02-03T10:11:35",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 567,
+    "user_id": "user_143",
+    "event_type": "click",
+    "timestamp": "2026-02-06T10:58:39",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 568,
+    "user_id": "user_203",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T16:36:57",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 569,
+    "user_id": "user_140",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T14:31:41",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 570,
+    "user_id": "user_212",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T18:06:34",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 571,
+    "user_id": "user_249",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T21:48:24",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 572,
+    "user_id": "user_27",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T01:56:46",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 573,
+    "user_id": "user_223",
+    "event_type": "click",
+    "timestamp": "2026-02-06T03:00:06",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 574,
+    "user_id": "user_224",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T15:37:34",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 575,
+    "user_id": "user_122",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T23:41:21",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 576,
+    "user_id": "user_141",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T21:15:06",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 577,
+    "user_id": "user_110",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T01:48:05",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 578,
+    "user_id": "user_149",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T07:47:08",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 579,
+    "user_id": "user_10",
+    "event_type": "click",
+    "timestamp": "2026-02-02T17:55:08",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 580,
+    "user_id": "user_27",
+    "event_type": "view",
+    "timestamp": "2026-02-05T20:00:17",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 581,
+    "user_id": "user_103",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T02:39:33",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 582,
+    "user_id": "user_135",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T03:19:20",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 583,
+    "user_id": "user_143",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T15:16:43",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 584,
+    "user_id": "user_46",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T18:00:08",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 585,
+    "user_id": "user_163",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T05:27:26",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 586,
+    "user_id": "user_102",
+    "event_type": "view",
+    "timestamp": "2026-02-01T03:10:03",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 587,
+    "user_id": "user_114",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T05:29:57",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 588,
+    "user_id": "user_256",
+    "event_type": "view",
+    "timestamp": "2026-02-01T22:14:33",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 589,
+    "user_id": "user_73",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T19:31:30",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 590,
+    "user_id": "user_101",
+    "event_type": "view",
+    "timestamp": "2026-02-05T06:14:27",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 591,
+    "user_id": "user_29",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T07:50:03",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 592,
+    "user_id": "user_268",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T18:22:59",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 593,
+    "user_id": "user_185",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T09:37:00",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 594,
+    "user_id": "user_159",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T03:52:40",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 595,
+    "user_id": "user_241",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T16:40:34",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 596,
+    "user_id": "user_198",
+    "event_type": "view",
+    "timestamp": "2026-02-03T01:43:58",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 597,
+    "user_id": "user_236",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T00:48:47",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 598,
+    "user_id": "user_294",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T11:35:35",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 599,
+    "user_id": "user_197",
+    "event_type": "click",
+    "timestamp": "2026-02-01T20:41:57",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 600,
+    "user_id": "user_282",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T02:36:11",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 601,
+    "user_id": "user_127",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T08:41:16",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 602,
+    "user_id": "user_35",
+    "event_type": "view",
+    "timestamp": "2026-02-07T23:29:05",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 603,
+    "user_id": "user_90",
+    "event_type": "click",
+    "timestamp": "2026-02-06T07:25:49",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 604,
+    "user_id": "user_84",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T06:38:29",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 605,
+    "user_id": "user_91",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T07:56:28",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 606,
+    "user_id": "user_3",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T09:35:58",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 607,
+    "user_id": "user_36",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T08:44:38",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 608,
+    "user_id": "user_227",
+    "event_type": "view",
+    "timestamp": "2026-02-08T07:41:52",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 609,
+    "user_id": "user_123",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T04:26:31",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 610,
+    "user_id": "user_120",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T01:44:42",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 611,
+    "user_id": "user_30",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T01:46:40",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 612,
+    "user_id": "user_51",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T03:25:50",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 613,
+    "user_id": "user_266",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T19:07:29",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 614,
+    "user_id": "user_34",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T17:00:29",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 615,
+    "user_id": "user_185",
+    "event_type": "click",
+    "timestamp": "2026-02-05T21:28:01",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 616,
+    "user_id": "user_33",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T04:44:10",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 617,
+    "user_id": "user_20",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T14:38:21",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 618,
+    "user_id": "user_211",
+    "event_type": "view",
+    "timestamp": "2026-02-01T15:00:42",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 619,
+    "user_id": "user_246",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T02:46:40",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 620,
+    "user_id": "user_120",
+    "event_type": "view",
+    "timestamp": "2026-02-07T05:21:47",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 621,
+    "user_id": "user_110",
+    "event_type": "click",
+    "timestamp": "2026-02-03T00:27:18",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 622,
+    "user_id": "user_186",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T08:18:03",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 623,
+    "user_id": "user_18",
+    "event_type": "click",
+    "timestamp": "2026-02-07T08:05:34",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 624,
+    "user_id": "user_45",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T02:03:45",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 625,
+    "user_id": "user_94",
+    "event_type": "view",
+    "timestamp": "2026-02-07T18:29:06",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 626,
+    "user_id": "user_140",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T05:28:41",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 627,
+    "user_id": "user_213",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T17:22:12",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 628,
+    "user_id": "user_200",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T16:37:09",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 629,
+    "user_id": "user_208",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T09:28:38",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 630,
+    "user_id": "user_82",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T22:53:17",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 631,
+    "user_id": "user_126",
+    "event_type": "click",
+    "timestamp": "2026-02-02T15:23:19",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 632,
+    "user_id": "user_77",
+    "event_type": "view",
+    "timestamp": "2026-02-08T12:13:41",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 633,
+    "user_id": "user_64",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T03:25:50",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 634,
+    "user_id": "user_17",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T10:00:00",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 635,
+    "user_id": "user_171",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T01:02:04",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 636,
+    "user_id": "user_213",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T11:58:57",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 637,
+    "user_id": "user_81",
+    "event_type": "click",
+    "timestamp": "2026-02-08T22:33:52",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 638,
+    "user_id": "user_277",
+    "event_type": "click",
+    "timestamp": "2026-02-04T05:03:36",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 639,
+    "user_id": "user_53",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T05:03:39",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 640,
+    "user_id": "user_50",
+    "event_type": "click",
+    "timestamp": "2026-02-05T19:52:39",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 641,
+    "user_id": "user_139",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T23:54:43",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 642,
+    "user_id": "user_18",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T18:47:23",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 643,
+    "user_id": "user_265",
+    "event_type": "click",
+    "timestamp": "2026-02-04T16:33:05",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 644,
+    "user_id": "user_22",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T02:58:40",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 645,
+    "user_id": "user_64",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T14:10:38",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 646,
+    "user_id": "user_89",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T10:35:18",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 647,
+    "user_id": "user_254",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T08:19:05",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 648,
+    "user_id": "user_97",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T03:41:07",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 649,
+    "user_id": "user_174",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T03:41:51",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 650,
+    "user_id": "user_19",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T20:39:49",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 651,
+    "user_id": "user_152",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T20:37:38",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 652,
+    "user_id": "user_269",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T17:21:42",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 653,
+    "user_id": "user_232",
+    "event_type": "click",
+    "timestamp": "2026-02-01T04:58:11",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 654,
+    "user_id": "user_269",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T23:08:48",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 655,
+    "user_id": "user_17",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T22:51:25",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 656,
+    "user_id": "user_275",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T11:09:49",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 657,
+    "user_id": "user_232",
+    "event_type": "view",
+    "timestamp": "2026-02-02T06:46:26",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 658,
+    "user_id": "user_35",
+    "event_type": "view",
+    "timestamp": "2026-02-08T10:32:36",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 659,
+    "user_id": "user_170",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T23:14:53",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 660,
+    "user_id": "user_127",
+    "event_type": "view",
+    "timestamp": "2026-02-01T01:42:34",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 661,
+    "user_id": "user_18",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T23:31:01",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 662,
+    "user_id": "user_234",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T03:58:29",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 663,
+    "user_id": "user_242",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T18:37:30",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 664,
+    "user_id": "user_59",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T02:07:39",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 665,
+    "user_id": "user_125",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T15:39:19",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 666,
+    "user_id": "user_10",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T16:46:20",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 667,
+    "user_id": "user_183",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T06:11:16",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 668,
+    "user_id": "user_222",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T09:31:28",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 669,
+    "user_id": "user_117",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T07:32:07",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 670,
+    "user_id": "user_269",
+    "event_type": "view",
+    "timestamp": "2026-02-04T17:21:44",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 671,
+    "user_id": "user_112",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T15:09:26",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 672,
+    "user_id": "user_252",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T21:21:21",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 673,
+    "user_id": "user_240",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T03:59:58",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 674,
+    "user_id": "user_159",
+    "event_type": "view",
+    "timestamp": "2026-02-03T16:08:41",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 675,
+    "user_id": "user_62",
+    "event_type": "view",
+    "timestamp": "2026-02-04T13:59:23",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 676,
+    "user_id": "user_77",
+    "event_type": "view",
+    "timestamp": "2026-02-08T12:09:07",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 677,
+    "user_id": "user_222",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T15:03:28",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 678,
+    "user_id": "user_1",
+    "event_type": "click",
+    "timestamp": "2026-02-01T10:31:57",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 679,
+    "user_id": "user_247",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T07:32:17",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 680,
+    "user_id": "user_216",
+    "event_type": "click",
+    "timestamp": "2026-02-06T20:06:22",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 681,
+    "user_id": "user_154",
+    "event_type": "click",
+    "timestamp": "2026-02-06T15:32:31",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 682,
+    "user_id": "user_93",
+    "event_type": "view",
+    "timestamp": "2026-02-03T22:49:05",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 683,
+    "user_id": "user_106",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T15:37:03",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 684,
+    "user_id": "user_142",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T23:33:20",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 685,
+    "user_id": "user_204",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T16:52:45",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 686,
+    "user_id": "user_75",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T01:48:23",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 687,
+    "user_id": "user_61",
+    "event_type": "click",
+    "timestamp": "2026-02-03T15:01:58",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 688,
+    "user_id": "user_273",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T06:51:18",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 689,
+    "user_id": "user_15",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T04:22:16",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 690,
+    "user_id": "user_77",
+    "event_type": "view",
+    "timestamp": "2026-02-01T11:34:08",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 691,
+    "user_id": "user_3",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T16:38:27",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 692,
+    "user_id": "user_207",
+    "event_type": "view",
+    "timestamp": "2026-02-04T23:17:33",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 693,
+    "user_id": "user_45",
+    "event_type": "click",
+    "timestamp": "2026-02-08T21:54:39",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 694,
+    "user_id": "user_78",
+    "event_type": "view",
+    "timestamp": "2026-02-02T17:48:36",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 695,
+    "user_id": "user_236",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T00:07:23",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 696,
+    "user_id": "user_81",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T00:34:43",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 697,
+    "user_id": "user_11",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T12:31:49",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 698,
+    "user_id": "user_213",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T06:16:41",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 699,
+    "user_id": "user_220",
+    "event_type": "view",
+    "timestamp": "2026-02-01T13:21:58",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 700,
+    "user_id": "user_145",
+    "event_type": "view",
+    "timestamp": "2026-02-06T03:56:27",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 701,
+    "user_id": "user_158",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T09:58:14",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 702,
+    "user_id": "user_63",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T21:24:20",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 703,
+    "user_id": "user_65",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T15:11:55",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 704,
+    "user_id": "user_28",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T11:47:22",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 705,
+    "user_id": "user_218",
+    "event_type": "click",
+    "timestamp": "2026-02-06T07:03:16",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 706,
+    "user_id": "user_117",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T17:02:32",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 707,
+    "user_id": "user_85",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T06:44:45",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 708,
+    "user_id": "user_10",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T04:03:52",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 709,
+    "user_id": "user_239",
+    "event_type": "click",
+    "timestamp": "2026-02-08T23:37:20",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 710,
+    "user_id": "user_188",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T04:31:39",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 711,
+    "user_id": "user_35",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T08:10:32",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 712,
+    "user_id": "user_218",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T22:57:26",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 713,
+    "user_id": "user_279",
+    "event_type": "view",
+    "timestamp": "2026-02-07T01:21:53",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 714,
+    "user_id": "user_292",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T02:49:01",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 715,
+    "user_id": "user_87",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T09:17:55",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 716,
+    "user_id": "user_53",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T14:30:37",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 717,
+    "user_id": "user_180",
+    "event_type": "view",
+    "timestamp": "2026-02-06T04:41:01",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 718,
+    "user_id": "user_272",
+    "event_type": "click",
+    "timestamp": "2026-02-06T10:16:39",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 719,
+    "user_id": "user_82",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T22:38:05",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 720,
+    "user_id": "user_131",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T13:50:21",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 721,
+    "user_id": "user_115",
+    "event_type": "view",
+    "timestamp": "2026-02-04T02:45:34",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 722,
+    "user_id": "user_121",
+    "event_type": "click",
+    "timestamp": "2026-02-06T20:40:34",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 723,
+    "user_id": "user_162",
+    "event_type": "view",
+    "timestamp": "2026-02-04T01:03:33",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 724,
+    "user_id": "user_198",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T13:56:28",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 725,
+    "user_id": "user_201",
+    "event_type": "view",
+    "timestamp": "2026-02-03T14:41:23",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 726,
+    "user_id": "user_76",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T13:37:05",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 727,
+    "user_id": "user_205",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T01:17:40",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 728,
+    "user_id": "user_127",
+    "event_type": "click",
+    "timestamp": "2026-02-05T01:08:26",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 729,
+    "user_id": "user_219",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T07:24:43",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 730,
+    "user_id": "user_145",
+    "event_type": "view",
+    "timestamp": "2026-02-01T17:46:17",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 731,
+    "user_id": "user_85",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T08:59:20",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 732,
+    "user_id": "user_237",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T15:47:48",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 733,
+    "user_id": "user_226",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T12:52:16",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 734,
+    "user_id": "user_78",
+    "event_type": "view",
+    "timestamp": "2026-02-06T07:58:25",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 735,
+    "user_id": "user_101",
+    "event_type": "view",
+    "timestamp": "2026-02-03T11:11:34",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 736,
+    "user_id": "user_153",
+    "event_type": "click",
+    "timestamp": "2026-02-08T04:09:09",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 737,
+    "user_id": "user_76",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T16:33:40",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 738,
+    "user_id": "user_37",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T04:28:11",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 739,
+    "user_id": "user_153",
+    "event_type": "view",
+    "timestamp": "2026-02-06T00:50:20",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 740,
+    "user_id": "user_276",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T13:53:58",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 741,
+    "user_id": "user_98",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T21:27:34",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 742,
+    "user_id": "user_244",
+    "event_type": "click",
+    "timestamp": "2026-02-05T11:57:49",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 743,
+    "user_id": "user_32",
+    "event_type": "click",
+    "timestamp": "2026-02-02T04:59:50",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 744,
+    "user_id": "user_45",
+    "event_type": "click",
+    "timestamp": "2026-02-03T05:51:50",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 745,
+    "user_id": "user_186",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T16:47:01",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 746,
+    "user_id": "user_278",
+    "event_type": "view",
+    "timestamp": "2026-02-07T09:22:00",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 747,
+    "user_id": "user_238",
+    "event_type": "view",
+    "timestamp": "2026-02-04T13:27:09",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 748,
+    "user_id": "user_279",
+    "event_type": "click",
+    "timestamp": "2026-02-07T23:55:19",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 749,
+    "user_id": "user_20",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T03:34:43",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 750,
+    "user_id": "user_250",
+    "event_type": "view",
+    "timestamp": "2026-02-01T11:51:13",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 751,
+    "user_id": "user_235",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T19:52:09",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 752,
+    "user_id": "user_300",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T16:31:13",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 753,
+    "user_id": "user_238",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T06:29:45",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 754,
+    "user_id": "user_268",
+    "event_type": "view",
+    "timestamp": "2026-02-06T11:50:26",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 755,
+    "user_id": "user_85",
+    "event_type": "click",
+    "timestamp": "2026-02-03T22:09:44",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 756,
+    "user_id": "user_153",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T15:23:53",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 757,
+    "user_id": "user_174",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T14:17:05",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 758,
+    "user_id": "user_84",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T16:34:39",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 759,
+    "user_id": "user_230",
+    "event_type": "click",
+    "timestamp": "2026-02-03T19:09:05",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 760,
+    "user_id": "user_223",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T04:17:56",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 761,
+    "user_id": "user_85",
+    "event_type": "view",
+    "timestamp": "2026-02-04T18:41:26",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 762,
+    "user_id": "user_71",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T08:31:42",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 763,
+    "user_id": "user_129",
+    "event_type": "click",
+    "timestamp": "2026-02-05T10:26:45",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 764,
+    "user_id": "user_124",
+    "event_type": "click",
+    "timestamp": "2026-02-01T08:03:51",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 765,
+    "user_id": "user_124",
+    "event_type": "click",
+    "timestamp": "2026-02-03T07:17:37",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 766,
+    "user_id": "user_169",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T10:00:57",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 767,
+    "user_id": "user_10",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T15:21:27",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 768,
+    "user_id": "user_225",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T15:11:53",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 769,
+    "user_id": "user_38",
+    "event_type": "click",
+    "timestamp": "2026-02-06T07:37:39",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 770,
+    "user_id": "user_89",
+    "event_type": "click",
+    "timestamp": "2026-02-01T19:49:14",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 771,
+    "user_id": "user_76",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T13:19:20",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 772,
+    "user_id": "user_32",
+    "event_type": "click",
+    "timestamp": "2026-02-01T09:18:50",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 773,
+    "user_id": "user_207",
+    "event_type": "click",
+    "timestamp": "2026-02-08T23:37:34",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 774,
+    "user_id": "user_63",
+    "event_type": "click",
+    "timestamp": "2026-02-08T05:51:47",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 775,
+    "user_id": "user_30",
+    "event_type": "click",
+    "timestamp": "2026-02-03T08:15:01",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 776,
+    "user_id": "user_187",
+    "event_type": "view",
+    "timestamp": "2026-02-02T21:05:24",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 777,
+    "user_id": "user_17",
+    "event_type": "view",
+    "timestamp": "2026-02-01T12:02:42",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 778,
+    "user_id": "user_194",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T21:17:51",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 779,
+    "user_id": "user_78",
+    "event_type": "view",
+    "timestamp": "2026-02-07T09:24:57",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 780,
+    "user_id": "user_92",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T00:22:56",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 781,
+    "user_id": "user_67",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T17:48:44",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 782,
+    "user_id": "user_238",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T10:26:33",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 783,
+    "user_id": "user_96",
+    "event_type": "click",
+    "timestamp": "2026-02-06T15:14:15",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 784,
+    "user_id": "user_253",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T02:47:29",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 785,
+    "user_id": "user_144",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T08:48:50",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 786,
+    "user_id": "user_187",
+    "event_type": "view",
+    "timestamp": "2026-02-03T18:08:09",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 787,
+    "user_id": "user_249",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T19:53:14",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 788,
+    "user_id": "user_135",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T10:09:36",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 789,
+    "user_id": "user_281",
+    "event_type": "click",
+    "timestamp": "2026-02-01T16:52:44",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 790,
+    "user_id": "user_270",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T01:16:08",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 791,
+    "user_id": "user_36",
+    "event_type": "click",
+    "timestamp": "2026-02-07T05:57:02",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 792,
+    "user_id": "user_88",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T05:07:53",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 793,
+    "user_id": "user_235",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T15:07:38",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 794,
+    "user_id": "user_123",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T10:48:01",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 795,
+    "user_id": "user_234",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T01:44:21",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 796,
+    "user_id": "user_100",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T23:29:29",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 797,
+    "user_id": "user_294",
+    "event_type": "view",
+    "timestamp": "2026-02-03T08:10:44",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 798,
+    "user_id": "user_160",
+    "event_type": "view",
+    "timestamp": "2026-02-05T05:04:18",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 799,
+    "user_id": "user_105",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T09:52:03",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 800,
+    "user_id": "user_189",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T04:25:34",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 801,
+    "user_id": "user_233",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T01:06:30",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 802,
+    "user_id": "user_15",
+    "event_type": "view",
+    "timestamp": "2026-02-04T15:13:50",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 803,
+    "user_id": "user_121",
+    "event_type": "click",
+    "timestamp": "2026-02-01T14:21:28",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 804,
+    "user_id": "user_167",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T00:39:24",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 805,
+    "user_id": "user_32",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T13:02:40",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 806,
+    "user_id": "user_119",
+    "event_type": "click",
+    "timestamp": "2026-02-07T11:04:57",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 807,
+    "user_id": "user_275",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T13:36:33",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 808,
+    "user_id": "user_59",
+    "event_type": "view",
+    "timestamp": "2026-02-03T18:26:09",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 809,
+    "user_id": "user_145",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T15:32:04",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 810,
+    "user_id": "user_164",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T06:15:17",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 811,
+    "user_id": "user_28",
+    "event_type": "view",
+    "timestamp": "2026-02-08T17:48:38",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 812,
+    "user_id": "user_61",
+    "event_type": "view",
+    "timestamp": "2026-02-04T22:11:47",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 813,
+    "user_id": "user_67",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T19:06:35",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 814,
+    "user_id": "user_158",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T10:13:36",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 815,
+    "user_id": "user_251",
+    "event_type": "click",
+    "timestamp": "2026-02-02T16:59:53",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 816,
+    "user_id": "user_20",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T21:47:21",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 817,
+    "user_id": "user_113",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T11:09:37",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 818,
+    "user_id": "user_235",
+    "event_type": "view",
+    "timestamp": "2026-02-02T21:56:08",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 819,
+    "user_id": "user_261",
+    "event_type": "view",
+    "timestamp": "2026-02-03T14:33:08",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 820,
+    "user_id": "user_228",
+    "event_type": "view",
+    "timestamp": "2026-02-08T17:52:57",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 821,
+    "user_id": "user_21",
+    "event_type": "click",
+    "timestamp": "2026-02-04T05:02:52",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 822,
+    "user_id": "user_188",
+    "event_type": "click",
+    "timestamp": "2026-02-02T05:56:35",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 823,
+    "user_id": "user_129",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T15:00:19",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 824,
+    "user_id": "user_134",
+    "event_type": "view",
+    "timestamp": "2026-02-05T02:37:43",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 825,
+    "user_id": "user_10",
+    "event_type": "click",
+    "timestamp": "2026-02-04T02:54:23",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 826,
+    "user_id": "user_29",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T17:39:22",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 827,
+    "user_id": "user_246",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T01:14:54",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 828,
+    "user_id": "user_155",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T05:18:39",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 829,
+    "user_id": "user_212",
+    "event_type": "view",
+    "timestamp": "2026-02-07T00:26:28",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 830,
+    "user_id": "user_63",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T05:29:57",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 831,
+    "user_id": "user_225",
+    "event_type": "view",
+    "timestamp": "2026-02-06T10:27:52",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 832,
+    "user_id": "user_80",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T12:41:28",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 833,
+    "user_id": "user_299",
+    "event_type": "click",
+    "timestamp": "2026-02-07T12:44:23",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 834,
+    "user_id": "user_212",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T21:39:55",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 835,
+    "user_id": "user_168",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T11:46:50",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 836,
+    "user_id": "user_227",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T16:43:53",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 837,
+    "user_id": "user_16",
+    "event_type": "click",
+    "timestamp": "2026-02-05T02:59:43",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 838,
+    "user_id": "user_248",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T04:05:40",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 839,
+    "user_id": "user_78",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T20:21:36",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 840,
+    "user_id": "user_14",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T20:09:29",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 841,
+    "user_id": "user_128",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T10:25:32",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 842,
+    "user_id": "user_110",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T11:20:46",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 843,
+    "user_id": "user_30",
+    "event_type": "click",
+    "timestamp": "2026-02-01T23:31:48",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 844,
+    "user_id": "user_226",
+    "event_type": "click",
+    "timestamp": "2026-02-04T23:29:21",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 845,
+    "user_id": "user_83",
+    "event_type": "click",
+    "timestamp": "2026-02-05T13:04:36",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 846,
+    "user_id": "user_19",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T05:21:59",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 847,
+    "user_id": "user_117",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T19:25:38",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 848,
+    "user_id": "user_179",
+    "event_type": "click",
+    "timestamp": "2026-02-06T02:40:24",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 849,
+    "user_id": "user_122",
+    "event_type": "click",
+    "timestamp": "2026-02-07T11:37:31",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 850,
+    "user_id": "user_115",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T06:14:39",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 851,
+    "user_id": "user_193",
+    "event_type": "click",
+    "timestamp": "2026-02-04T20:01:59",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 852,
+    "user_id": "user_70",
+    "event_type": "click",
+    "timestamp": "2026-02-08T04:33:41",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 853,
+    "user_id": "user_99",
+    "event_type": "view",
+    "timestamp": "2026-02-03T18:01:05",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 854,
+    "user_id": "user_20",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T07:26:19",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 855,
+    "user_id": "user_154",
+    "event_type": "view",
+    "timestamp": "2026-02-06T12:29:58",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 856,
+    "user_id": "user_149",
+    "event_type": "view",
+    "timestamp": "2026-02-04T12:43:57",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 857,
+    "user_id": "user_35",
+    "event_type": "click",
+    "timestamp": "2026-02-04T04:47:07",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 858,
+    "user_id": "user_134",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T11:42:12",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 859,
+    "user_id": "user_287",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T22:01:28",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 860,
+    "user_id": "user_282",
+    "event_type": "click",
+    "timestamp": "2026-02-08T08:52:09",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 861,
+    "user_id": "user_192",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T12:36:30",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 862,
+    "user_id": "user_296",
+    "event_type": "click",
+    "timestamp": "2026-02-03T12:03:48",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 863,
+    "user_id": "user_297",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T14:11:58",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 864,
+    "user_id": "user_280",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T12:14:52",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 865,
+    "user_id": "user_296",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T23:28:29",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 866,
+    "user_id": "user_185",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T20:16:09",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 867,
+    "user_id": "user_288",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T10:11:08",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 868,
+    "user_id": "user_251",
+    "event_type": "click",
+    "timestamp": "2026-02-04T02:36:07",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 869,
+    "user_id": "user_178",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T20:15:30",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 870,
+    "user_id": "user_217",
+    "event_type": "logout",
+    "timestamp": "2026-02-03T02:35:30",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 871,
+    "user_id": "user_259",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T02:06:52",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 872,
+    "user_id": "user_191",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T03:00:49",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 873,
+    "user_id": "user_227",
+    "event_type": "click",
+    "timestamp": "2026-02-06T08:32:01",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 874,
+    "user_id": "user_165",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T10:58:27",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 875,
+    "user_id": "user_122",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T03:18:49",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 876,
+    "user_id": "user_95",
+    "event_type": "view",
+    "timestamp": "2026-02-02T07:56:38",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 877,
+    "user_id": "user_295",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T22:43:53",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 878,
+    "user_id": "user_176",
+    "event_type": "click",
+    "timestamp": "2026-02-02T18:43:17",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 879,
+    "user_id": "user_277",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T13:16:34",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 880,
+    "user_id": "user_227",
+    "event_type": "click",
+    "timestamp": "2026-02-07T00:53:55",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 881,
+    "user_id": "user_105",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T18:43:15",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 882,
+    "user_id": "user_76",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T04:19:45",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 883,
+    "user_id": "user_146",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T03:57:13",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 884,
+    "user_id": "user_81",
+    "event_type": "click",
+    "timestamp": "2026-02-03T10:39:48",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 885,
+    "user_id": "user_50",
+    "event_type": "click",
+    "timestamp": "2026-02-05T04:07:33",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 886,
+    "user_id": "user_225",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T02:22:28",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 887,
+    "user_id": "user_152",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T02:47:57",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 888,
+    "user_id": "user_167",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T15:44:39",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 889,
+    "user_id": "user_115",
+    "event_type": "click",
+    "timestamp": "2026-02-04T09:35:25",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 890,
+    "user_id": "user_47",
+    "event_type": "click",
+    "timestamp": "2026-02-03T13:59:05",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 891,
+    "user_id": "user_101",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T07:44:08",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 892,
+    "user_id": "user_169",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T22:52:49",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 893,
+    "user_id": "user_70",
+    "event_type": "view",
+    "timestamp": "2026-02-02T10:54:04",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 894,
+    "user_id": "user_204",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T10:32:00",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 895,
+    "user_id": "user_220",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T18:01:30",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 896,
+    "user_id": "user_128",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T23:28:15",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 897,
+    "user_id": "user_35",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T16:17:55",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 898,
+    "user_id": "user_33",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T21:35:00",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 899,
+    "user_id": "user_170",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T04:59:32",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 900,
+    "user_id": "user_82",
+    "event_type": "view",
+    "timestamp": "2026-02-05T06:15:03",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 901,
+    "user_id": "user_165",
+    "event_type": "click",
+    "timestamp": "2026-02-03T03:17:13",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 902,
+    "user_id": "user_48",
+    "event_type": "view",
+    "timestamp": "2026-02-01T18:30:42",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 903,
+    "user_id": "user_63",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T09:19:06",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 904,
+    "user_id": "user_264",
+    "event_type": "click",
+    "timestamp": "2026-02-02T12:59:05",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 905,
+    "user_id": "user_112",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T09:01:11",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 906,
+    "user_id": "user_164",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T12:57:07",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 907,
+    "user_id": "user_104",
+    "event_type": "click",
+    "timestamp": "2026-02-06T11:58:33",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 908,
+    "user_id": "user_280",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T03:36:02",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 909,
+    "user_id": "user_63",
+    "event_type": "logout",
+    "timestamp": "2026-02-02T13:02:24",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 910,
+    "user_id": "user_193",
+    "event_type": "view",
+    "timestamp": "2026-02-07T09:09:17",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 911,
+    "user_id": "user_66",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T16:30:54",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 912,
+    "user_id": "user_149",
+    "event_type": "view",
+    "timestamp": "2026-02-03T20:41:17",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 913,
+    "user_id": "user_271",
+    "event_type": "view",
+    "timestamp": "2026-02-02T00:26:51",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 914,
+    "user_id": "user_126",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T12:09:45",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 915,
+    "user_id": "user_123",
+    "event_type": "view",
+    "timestamp": "2026-02-06T05:13:43",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 916,
+    "user_id": "user_232",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T09:30:22",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 917,
+    "user_id": "user_71",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T23:33:18",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 918,
+    "user_id": "user_196",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T22:52:16",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 919,
+    "user_id": "user_201",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T07:59:09",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 920,
+    "user_id": "user_201",
+    "event_type": "logout",
+    "timestamp": "2026-02-05T12:47:32",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 921,
+    "user_id": "user_81",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T21:24:55",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 922,
+    "user_id": "user_2",
+    "event_type": "view",
+    "timestamp": "2026-02-03T01:58:23",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 923,
+    "user_id": "user_182",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-03T20:29:36",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 924,
+    "user_id": "user_114",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T03:13:01",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 925,
+    "user_id": "user_157",
+    "event_type": "view",
+    "timestamp": "2026-02-08T05:48:39",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 926,
+    "user_id": "user_9",
+    "event_type": "click",
+    "timestamp": "2026-02-02T19:18:19",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 927,
+    "user_id": "user_40",
+    "event_type": "view",
+    "timestamp": "2026-02-08T06:39:49",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 928,
+    "user_id": "user_245",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T19:14:53",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 929,
+    "user_id": "user_86",
+    "event_type": "view",
+    "timestamp": "2026-02-06T18:34:05",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 930,
+    "user_id": "user_77",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T07:42:37",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 931,
+    "user_id": "user_25",
+    "event_type": "click",
+    "timestamp": "2026-02-05T22:11:22",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 932,
+    "user_id": "user_79",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T17:02:36",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 933,
+    "user_id": "user_186",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T09:55:59",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 934,
+    "user_id": "user_162",
+    "event_type": "view",
+    "timestamp": "2026-02-06T00:25:54",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 935,
+    "user_id": "user_163",
+    "event_type": "click",
+    "timestamp": "2026-02-07T17:16:16",
+    "device": "mobile",
+    "location": "Pune"
+  },
+  {
+    "event_id": 936,
+    "user_id": "user_6",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T11:00:39",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 937,
+    "user_id": "user_171",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T04:51:02",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 938,
+    "user_id": "user_35",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T03:36:33",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 939,
+    "user_id": "user_160",
+    "event_type": "purchase",
+    "timestamp": "2026-02-05T22:14:07",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 940,
+    "user_id": "user_284",
+    "event_type": "view",
+    "timestamp": "2026-02-05T10:38:43",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 941,
+    "user_id": "user_96",
+    "event_type": "click",
+    "timestamp": "2026-02-08T17:48:24",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 942,
+    "user_id": "user_84",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T06:21:25",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 943,
+    "user_id": "user_148",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T19:18:03",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 944,
+    "user_id": "user_236",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T20:18:21",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 945,
+    "user_id": "user_10",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T17:28:21",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 946,
+    "user_id": "user_128",
+    "event_type": "view",
+    "timestamp": "2026-02-03T13:00:30",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 947,
+    "user_id": "user_287",
+    "event_type": "view",
+    "timestamp": "2026-02-03T21:46:46",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 948,
+    "user_id": "user_41",
+    "event_type": "view",
+    "timestamp": "2026-02-01T04:11:50",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 949,
+    "user_id": "user_59",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T12:23:31",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 950,
+    "user_id": "user_218",
+    "event_type": "view",
+    "timestamp": "2026-02-06T13:06:54",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 951,
+    "user_id": "user_238",
+    "event_type": "click",
+    "timestamp": "2026-02-06T13:22:54",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 952,
+    "user_id": "user_100",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T05:26:30",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 953,
+    "user_id": "user_237",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T23:54:37",
+    "device": "mobile",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 954,
+    "user_id": "user_76",
+    "event_type": "view",
+    "timestamp": "2026-02-03T11:38:08",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 955,
+    "user_id": "user_108",
+    "event_type": "click",
+    "timestamp": "2026-02-06T15:59:31",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 956,
+    "user_id": "user_140",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-08T11:12:12",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 957,
+    "user_id": "user_53",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T22:36:52",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 958,
+    "user_id": "user_94",
+    "event_type": "view",
+    "timestamp": "2026-02-04T15:56:42",
+    "device": "desktop",
+    "location": "Pune"
+  },
+  {
+    "event_id": 959,
+    "user_id": "user_191",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T21:46:10",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 960,
+    "user_id": "user_253",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T00:31:20",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 961,
+    "user_id": "user_283",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T02:44:28",
+    "device": "desktop",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 962,
+    "user_id": "user_148",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T05:36:41",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 963,
+    "user_id": "user_234",
+    "event_type": "view",
+    "timestamp": "2026-02-04T08:11:54",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 964,
+    "user_id": "user_145",
+    "event_type": "click",
+    "timestamp": "2026-02-01T10:39:02",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 965,
+    "user_id": "user_251",
+    "event_type": "logout",
+    "timestamp": "2026-02-06T13:34:24",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 966,
+    "user_id": "user_76",
+    "event_type": "logout",
+    "timestamp": "2026-02-08T04:45:05",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 967,
+    "user_id": "user_11",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T05:32:01",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 968,
+    "user_id": "user_65",
+    "event_type": "view",
+    "timestamp": "2026-02-03T15:14:17",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 969,
+    "user_id": "user_232",
+    "event_type": "click",
+    "timestamp": "2026-02-01T02:24:09",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 970,
+    "user_id": "user_176",
+    "event_type": "purchase",
+    "timestamp": "2026-02-01T13:54:40",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 971,
+    "user_id": "user_120",
+    "event_type": "click",
+    "timestamp": "2026-02-03T06:41:02",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 972,
+    "user_id": "user_240",
+    "event_type": "purchase",
+    "timestamp": "2026-02-04T00:01:36",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 973,
+    "user_id": "user_107",
+    "event_type": "click",
+    "timestamp": "2026-02-07T19:24:14",
+    "device": "tablet",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 974,
+    "user_id": "user_285",
+    "event_type": "purchase",
+    "timestamp": "2026-02-08T03:55:55",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 975,
+    "user_id": "user_6",
+    "event_type": "logout",
+    "timestamp": "2026-02-07T17:26:29",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 976,
+    "user_id": "user_51",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T06:45:02",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 977,
+    "user_id": "user_134",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T00:55:52",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 978,
+    "user_id": "user_212",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-07T15:36:50",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 979,
+    "user_id": "user_262",
+    "event_type": "click",
+    "timestamp": "2026-02-06T22:46:54",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 980,
+    "user_id": "user_286",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-06T13:23:23",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 981,
+    "user_id": "user_150",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-04T03:09:24",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 982,
+    "user_id": "user_284",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T16:57:39",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 983,
+    "user_id": "user_268",
+    "event_type": "purchase",
+    "timestamp": "2026-02-03T20:13:48",
+    "device": "mobile",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 984,
+    "user_id": "user_9",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T14:38:57",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 985,
+    "user_id": "user_8",
+    "event_type": "click",
+    "timestamp": "2026-02-04T11:31:30",
+    "device": "desktop",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 986,
+    "user_id": "user_262",
+    "event_type": "purchase",
+    "timestamp": "2026-02-06T05:20:55",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 987,
+    "user_id": "user_169",
+    "event_type": "view",
+    "timestamp": "2026-02-03T09:59:28",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 988,
+    "user_id": "user_230",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-02T08:03:35",
+    "device": "tablet",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 989,
+    "user_id": "user_184",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-01T21:49:52",
+    "device": "desktop",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 990,
+    "user_id": "user_192",
+    "event_type": "purchase",
+    "timestamp": "2026-02-07T23:23:53",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 991,
+    "user_id": "user_57",
+    "event_type": "add_to_cart",
+    "timestamp": "2026-02-05T00:31:58",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 992,
+    "user_id": "user_138",
+    "event_type": "view",
+    "timestamp": "2026-02-02T01:50:09",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 993,
+    "user_id": "user_126",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T01:53:12",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 994,
+    "user_id": "user_40",
+    "event_type": "purchase",
+    "timestamp": "2026-02-02T19:00:56",
+    "device": "tablet",
+    "location": "Hyderabad"
+  },
+  {
+    "event_id": 995,
+    "user_id": "user_11",
+    "event_type": "click",
+    "timestamp": "2026-02-08T05:53:40",
+    "device": "mobile",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 996,
+    "user_id": "user_136",
+    "event_type": "click",
+    "timestamp": "2026-02-04T10:39:28",
+    "device": "tablet",
+    "location": "Pune"
+  },
+  {
+    "event_id": 997,
+    "user_id": "user_2",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T23:10:36",
+    "device": "desktop",
+    "location": "Bangalore"
+  },
+  {
+    "event_id": 998,
+    "user_id": "user_211",
+    "event_type": "logout",
+    "timestamp": "2026-02-01T05:17:32",
+    "device": "mobile",
+    "location": "Delhi"
+  },
+  {
+    "event_id": 999,
+    "user_id": "user_7",
+    "event_type": "view",
+    "timestamp": "2026-02-02T15:10:02",
+    "device": "tablet",
+    "location": "Mumbai"
+  },
+  {
+    "event_id": 1000,
+    "user_id": "user_292",
+    "event_type": "logout",
+    "timestamp": "2026-02-04T16:04:11",
+    "device": "desktop",
+    "location": "Mumbai"
+  }
+]
