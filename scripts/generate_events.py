@@ -4,9 +4,6 @@ import random
 from datetime import datetime, timedelta
 from pathlib import Path
 
-# ----------------------------
-# Configuration
-# ----------------------------
 NUM_EVENTS = 1000
 OUTPUT_DIR = Path("data/raw")
 CSV_FILE = OUTPUT_DIR / "events.csv"
